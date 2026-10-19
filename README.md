@@ -175,13 +175,13 @@ ReLoopAI provides AI-generated suggestions and approximate financial estimates f
 
 ## 👨‍💻 Author
 
-**MD Nawedullah Saif**
+### Nawed Ullah
 
-- GitHub: [@mdnawedullah09](https://github.com/mdnawedullah09)
-- Project Repository: [ReLoopAI](https://github.com/mdnawedullah09/ReLoopAI)
+- **GitHub:** [@mdnawedullah09](https://github.com/mdnawedullah09)
 
-**Jaya Patel**
+### Jaya Patel
 
+- **GitHub:** [@jaya030888](https://github.com/jaya030888)
 
 ## 📄 License
 
